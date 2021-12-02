@@ -1,0 +1,24 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/style.scss css/estilo.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xAmbitionZx/Fotografia-proyecto.git"
+  },
+  "author": "Nicolas cejas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xAmbitionZx/Fotografia-proyecto/issues"
+  },
+  "homepage": "https://github.com/xAmbitionZx/Fotografia-proyecto#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.7.1"
+  }
+}
